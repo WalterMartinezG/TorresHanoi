@@ -1,0 +1,5 @@
+﻿  TorresHanoi.cpp
+c:\users\user\documents\umg\proyectohanoi\torreshanoi\torreshanoi\torreshanoi.cpp(38): warning C4101: 'B': unreferenced local variable
+c:\users\user\documents\umg\proyectohanoi\torreshanoi\torreshanoi\torreshanoi.cpp(38): warning C4101: 'A': unreferenced local variable
+c:\users\user\documents\umg\proyectohanoi\torreshanoi\torreshanoi\torreshanoi.cpp(38): warning C4101: 'C': unreferenced local variable
+  TorresHanoi.vcxproj -> C:\Users\User\Documents\UMG\ProyectoHanoi\TorresHanoi\Debug\TorresHanoi.exe
